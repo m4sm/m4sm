@@ -14,22 +14,20 @@
 
 
 
-- :house: I'm currently living at Brazil.
-- :computer: I'm software engineer student.
+- :house: I'm currently living at Goiânia, Brazil.
+- :computer: I'm information systems student.
 - :dart: I am currently working on study projects.
-- :video_game: I love counter strike.
+- :video_game: I love League of Legends.
   
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```ruby
-CONST DAVI = {
-  backend: ["Java", "Python", "C", "C++"],
-  frontend: ["HTML", "Javascript", "CSS", "Boostrap"],
-  database: ["Postgresql", "mySQL","MongoDb"],
-  frameworks: ["Spring"],
-  architecture: ["Microservices", "SOLID"],
-  util: ["Git", "Linux", "Docker"]
+CONST MARCO = {
+  backend: ["C", "C++", "Python"],
+  frontend: ["HTML", "Javascript", "CSS"],
+  database: ["mySQL"],
+  util: ["Git", "Linux"],
   challenge: "Learn and improve my programming skills."
 }
 ```
