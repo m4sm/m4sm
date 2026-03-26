@@ -64,9 +64,8 @@ const marco = {
     level: "Junior",
     coffee: true,
     skills: {
-        backend: ["C", "C++", "Python"],
-        frontend: ["HTML", "JS", "CSS"],
-        database: "MySQL"
+        backend: ["Java", "C"],
+        database: "PostgreSQL"
     },
     challenge: "Improve my programming skills daily."
 };
